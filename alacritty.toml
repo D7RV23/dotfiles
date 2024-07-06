@@ -1,0 +1,15 @@
+#alacritty config
+
+#theme
+import = [
+    "~/.config/alacritty/themes/themes/dark_pride.toml"
+]
+
+[font]
+size = 8.0
+
+[colors]
+transparent_background_colors = true
+
+[window]
+opacity = 0.70
